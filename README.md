@@ -8,4 +8,7 @@ Alguns dos tópicos tratados nas aulas foram:
 * Tageamento de tokens
 * Lematização e stemização 
 * Visualização de dados textuais
+* Representação de textos
 * Chatbots com dialogflow
+* Classificação de textos
+* Análise de sentimento
